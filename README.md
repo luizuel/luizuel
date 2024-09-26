@@ -14,6 +14,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuel&hide_progress=true)
 
 ##
+Estudante, apaixonado por tecnologia, música e finanças
+
+## Últimos projetos
+- [OnService](https://www.onservice.com.br)
+- [AirsoftPro](https://www.airsoftpro.com.br)
+- [LHC - Londrina Hacker Club](https://londrinahackerclub.com.br)
 <!--### ✅ Tecnologias que eu uso no meu dia
 
 <div style="display:inline_block" width="300">
