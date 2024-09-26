@@ -17,7 +17,7 @@
 Estudante, apaixonado por tecnologia, música e finanças
 
 ## Últimos projetos
-- [OnService](https://www.onservice.com.br)
+- [OnService](https://onservice.com.br)
 - [AirsoftPro](https://www.airsoftpro.com.br)
 - [LHC - Londrina Hacker Club](https://londrinahackerclub.com.br)
 <!--### ✅ Tecnologias que eu uso no meu dia
