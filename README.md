@@ -8,6 +8,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizuel/)
 [![Blog](https://img.shields.io/website?label=luizuel.com.br&style=for-the-badge&url=https://luizuel.com.br/)](https://luizuel.com.br)
+![](https://komarev.com/ghpvc/?username=luizuel)
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizuel&show_icons=true&theme=radical)</br></br>
